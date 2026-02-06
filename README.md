@@ -10,19 +10,13 @@ An automated Python-based network vulnerability scanner that performs port scann
 
 2.Features
 
- -TCP SYN Scan (-sS)
- 
- -Service Version Detection (-sV)
- 
- -Host Discovery Bypass (-Pn)
- 
- -Automatic XML Parsing of Nmap Results
- 
- -Detection of Open Ports
- 
- -Predefined Risk Classification Mapping
- 
- -Structured Terminal-Based Security Report
+- TCP SYN Scan (-sS)
+- Service Version Detection (-sV)
+- Host Discovery Bypass (-Pn)
+- Automatic XML Parsing of Nmap Results
+- Detection of Open Ports
+- Predefined Risk Classification Mapping
+- Structured Terminal-Based Security Report
 
 3. Tools & Technologies Used
    
