@@ -34,6 +34,18 @@ How the Project Works
 3. Open ports and services are extracted from the scan output.
 4. Each detected service is mapped to a **basic security risk**.
 5. A **readable security report** is displayed in the terminal.
+
+
+| Port | Service    | Risk Level |
+| ---- | ---------- | ---------- |
+| 21   | FTP        | High       |
+| 22   | SSH        | Medium     |
+| 23   | Telnet     | High       |
+| 80   | HTTP       | Medium     |
+| 445  | SMB        | High       |
+| 3389 | RDP        | High       |
+| 8080 | HTTP-Proxy | Medium     |
+
    
 
 This makes the scanner dynamic, as results depend on the actual network state of the target machine.
