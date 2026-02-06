@@ -1,9 +1,11 @@
 🔐 Automated Vulnerability Network Scanner
+
 An automated Python-based network vulnerability scanner that performs port scanning, service detection, and risk analysis using Nmap and XML parsing.
 
 1.Overview
 
   This project scans a target IP address, identifies open ports and running services, and maps them to predefined security risks. It automates basic vulnerability assessment and generates a structured security      risk report.
+  
   Developed as a practical cybersecurity implementation project using Kali Linux.
 
 2.Features
